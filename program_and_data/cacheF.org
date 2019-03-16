@@ -1,0 +1,4 @@
+Address_bits: 32
+Number_of_sets: 256
+Associativity: 4
+Block_size: 64
